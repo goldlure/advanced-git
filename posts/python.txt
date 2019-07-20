@@ -1,2 +1,3 @@
 a new blog post about Python
 now it's another commit
+and the third line
